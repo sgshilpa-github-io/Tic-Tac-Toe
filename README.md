@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-online tic tac toe with single user
+Tic Tac game to play with computer
